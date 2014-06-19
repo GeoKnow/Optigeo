@@ -96,8 +96,8 @@
 	<dependencies>
 
 		<dependency>
-			<groupId>org.aksw.geolink</groupId>
-			<artifactId>geolink-core</artifactId>
+			<groupId>org.aksw.optigeo</groupId>
+			<artifactId>optigeo-core</artifactId>
 		</dependency>
 
         <dependency>

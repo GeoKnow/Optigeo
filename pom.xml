@@ -130,14 +130,14 @@
 		<dependencies>
 			<!-- Self dependencies -->
 			<dependency>
-				<groupId>org.aksw.geolink</groupId>
-				<artifactId>geolink-core</artifactId>
+				<groupId>org.aksw.optigeo</groupId>
+				<artifactId>optigeo-core</artifactId>
 				<version>${project.version}</version>
 			</dependency>
 
 			<dependency>
-				<groupId>org.aksw.geolink</groupId>
-				<artifactId>geolink-webapp</artifactId>
+				<groupId>org.aksw.optigeo</groupId>
+				<artifactId>optigeo-webapp</artifactId>
 				<version>${project.version}</version>
 				<type>war</type>
 			</dependency>
