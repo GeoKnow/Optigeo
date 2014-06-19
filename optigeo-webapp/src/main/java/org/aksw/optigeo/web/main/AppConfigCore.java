@@ -11,7 +11,7 @@ import org.springframework.context.annotation.Configuration;
 import com.google.gson.Gson;
 
 @Configuration
-@ComponentScan({"org.aksw.geolink.web"})
+@ComponentScan({"org.aksw.optigeo.web"})
 public class AppConfigCore {
     
     private static final Logger logger = LoggerFactory.getLogger(AppConfigCore.class);

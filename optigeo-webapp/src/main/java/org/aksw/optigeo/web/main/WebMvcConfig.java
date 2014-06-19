@@ -26,7 +26,7 @@ import org.springframework.web.servlet.view.InternalResourceViewResolver;
 
 @Configuration
 @EnableWebMvc
-@ComponentScan(basePackages = "org.aksw.geolink.web.api")
+@ComponentScan(basePackages = "org.aksw.optigeo.web.api")
 public class WebMvcConfig
 	extends WebMvcConfigurerAdapter
 {
